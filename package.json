@@ -1,0 +1,1 @@
+{ "name": "bina-tarkari-shop", "version": "1.0.0", "private": true, "dependencies": { "next": "latest", "react": "latest", "react-dom": "latest", "nextauth": "latest", "stripe": "latest", "mongoose": "latest", "zustand": "latest", "tailwindcss": "latest" }}
